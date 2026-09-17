@@ -1,4 +1,4 @@
- # Machine Learning Assignments
+ # 🤖 Machine Learning Assignments
 
 This repository contains my **Machine Learning assignments** completed as part of my academic coursework.
 
